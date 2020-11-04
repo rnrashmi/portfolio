@@ -1,0 +1,19 @@
+#sec{
+background-color: deepskyblue;
+}
+
+div h4{
+  color:blue;
+  text-align: center;
+}
+
+div a{
+  text-align: center;
+}
+
+@media print {
+  .card {
+  display: none;
+  }
+  }
+ 

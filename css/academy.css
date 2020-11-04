@@ -1,0 +1,28 @@
+
+#cmp1,#cmp2{
+  color:coral;
+  text-decoration: salmon;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+@media (min-width: 500px) {
+  body {
+  background-color:ghostwhite;
+  }
+  }
+  @media (max-width: 499px) {
+ body {
+  background-color:bisque;
+  }
+  }
+  
+ol ul{
+  border:cadetblue solid 1px;
+  background-color: beige;
+}
+
+*{
+  font-weight: normal;
+}
